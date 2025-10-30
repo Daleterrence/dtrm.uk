@@ -1,22 +1,28 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to dtrm.uk.
+======================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+.. warning::
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+   🚧 **Site Under Construction** 🚧
+   
+   This site is still being built and content is being actively added. Please check back later if you're looking for like, actual info.
 
-.. note::
+Welcome to my ridiculous part of the internet.Here you'll find documentation and information about my various projects, mostly involving Final Fantasy XI.
 
-   This project is under active development.
+Coming Soon
+-----------
 
-Contents
---------
+This site will feature documentation for:
 
-.. toctree::
+**Discord Bots**
 
-   usage
-   api
+* WhereIsDI
+* FFXI News Bot
+* Shredderbot
+* Campaign-Bot
+
+**Windower Addons**
+
+* SpamBlock
+* Devil's Despair
+
