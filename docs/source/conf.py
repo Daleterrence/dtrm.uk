@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'My Projects'
-copyright = '2025, Daleterrence'
-author = 'Daleterrence'
+project = 'dtrm.uk'
+copyright = '2025, DTR'
+author = 'DTR'
 
 release = '1.0'
 version = '1.0.0'
